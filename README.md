@@ -11,7 +11,7 @@ Make sure you have [Git Bash](https://git-scm.com/) if you are working in Window
 2. Open Git Bash
 3. Navigate to root directory of this repository: ```arcgis-dss/```
 4. Install requirements with ```pip install -r requirements.txt```
-5. Run ```python app.py```
+5. Run ```python app.py``` (windows firewall assistant may try to block, be sure to allow access)
 6. Open web browser and navigate to localhost:8888/arcgis-dss
 
 You should see this:
