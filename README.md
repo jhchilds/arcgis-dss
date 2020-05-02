@@ -4,11 +4,11 @@ This is a demo of the ArcGIS API for JavaScript displaying dummy GPR data for sp
 
 Make sure you have installed [Python 3.7+](https://www.python.org/) on your machine.
 (Be sure to add Python to your PATH upon installation) 
-Make sure you have [Git Bash](https://git-scm.com/) if you are working in Windows
+Make sure you have [Powershell](https://github.com/PowerShell/PowerShell#get-powershell) if you are working in Windows
 
 ### Windows
 1. Clone or download repository from GitHub.
-2. Open Git Bash
+2. Open Powershell
 3. Navigate to root directory of this repository: ```arcgis-dss/```
 4. Install requirements with ```pip install -r requirements.txt```
 5. Run ```python app.py``` (windows firewall assistant may try to block, be sure to allow access)
